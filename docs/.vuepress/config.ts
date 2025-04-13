@@ -5,8 +5,8 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: 'My Vuepress Site',
-  description: '',
+  title: 'F-Blog',
+  description: '一个苟活于21世纪的博客',
 
   head: [
     // 配置站点图标
